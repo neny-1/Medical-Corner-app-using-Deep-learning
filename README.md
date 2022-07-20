@@ -1,6 +1,7 @@
 # Medical Corner app using Deep learning
-
+<div align="center">
 <img src="https://user-images.githubusercontent.com/56697867/179871133-b6a56485-90c9-4f6c-a8a6-e8cf9803575e.jpeg" width="400" center/>
+</div>
 
 ### My graduation project
 
