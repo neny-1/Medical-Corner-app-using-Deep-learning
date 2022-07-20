@@ -1,11 +1,24 @@
 # Medical Corner app using Deep learning
-This project is my graduation project created to help Detection pneumonia and brain tumors and Prediction heart disease and diabetes using Convolutional Neural Network (CNN)
+
+<img src="https://user-images.githubusercontent.com/56697867/179871133-b6a56485-90c9-4f6c-a8a6-e8cf9803575e.jpeg" width="400" center/>
+
+### My graduation project
+
+MedicalCorner is a medical application which helps detecting Pneumonia and
+Brain Tumour. It also provides prediction for Heart Disease
+and Diabetes 
+
+All models created using Neural Network
+
+In this repository we will focus on Deep learning models
+
+
 
 # Installation Options
-### You can run the model on
-- one
-- two
-- three
+### You can upload and run model using
+- [kaggle](https://www.kaggle.com/)
+- [colab](https://colab.research.google.com/)
+- [jupyter notebook](https://jupyter.org)
 
 # References
 ### Pneumonia Detection Model
