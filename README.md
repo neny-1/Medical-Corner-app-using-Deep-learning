@@ -4,14 +4,15 @@
 
 ### My graduation project
 
-Medical Corner is a medical application which helps detecting Pneumonia and
+- Medical Corner is a medical application which helps detecting Pneumonia and
 Brain Tumour. It also provides prediction for Heart Disease
 and Diabetes 
 
-All models created using Neural Network
+- All models created using Neural Network
 
-In this repository we will focus on Deep learning models
+- In this repository we will focus on Deep learning models
 
+- I will upload the rest of the models
 
 
 # Installation Options
@@ -19,6 +20,9 @@ In this repository we will focus on Deep learning models
 - [kaggle](https://www.kaggle.com/)
 - [colab](https://colab.research.google.com/)
 - [jupyter notebook](https://jupyter.org)
+
+# Models links on kaggle
+[Pneumonia Detection](https://www.kaggle.com/code/mohamedkhaled7/pneumonia-detection-on-x-rays-using-cnn-and-tflite)
 
 # References
 ### Pneumonia Detection Model
