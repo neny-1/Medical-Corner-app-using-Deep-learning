@@ -13,7 +13,7 @@ and Diabetes
 
 - In this repository we will focus on Deep learning models
 
-- I will upload the rest of the models
+- I will upload the rest of the models source code
 
 
 # Installation Options
