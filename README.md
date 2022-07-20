@@ -21,7 +21,7 @@ and Diabetes
 - [colab](https://colab.research.google.com/)
 - [jupyter notebook](https://jupyter.org)
 
-# Models links on kaggle
+# Models on kaggle
 [Pneumonia Detection](https://www.kaggle.com/code/mohamedkhaled7/pneumonia-detection-on-x-rays-using-cnn-and-tflite)
 
 # References
