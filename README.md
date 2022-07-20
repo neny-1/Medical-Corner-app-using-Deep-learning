@@ -4,7 +4,7 @@
 
 ### My graduation project
 
-MedicalCorner is a medical application which helps detecting Pneumonia and
+Medical Corner is a medical application which helps detecting Pneumonia and
 Brain Tumour. It also provides prediction for Heart Disease
 and Diabetes 
 
