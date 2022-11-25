@@ -34,7 +34,7 @@ and Diabetes
 3 - https://www.kaggle.com/code/madz2000/pneumonia-detection-using-cnn-92-6-accuracy/notebook
 
 ### Heart Disease Prediction Model
-1 - [Dataset](https://drive.google.com/file/d/1Fl8Bn2cyrR4TpQjJlzR8Zvz84LQvbwyv/view?usp=sharing)
+1 - [Dataset](https://drive.google.com/file/d/14wQ9H27eqz1Q35jSA1cIwGdzt4DVrwGJ/view?usp=sharing)
 
 2 - https://github.com/rtflynn/Heart-Disease-Model
 
