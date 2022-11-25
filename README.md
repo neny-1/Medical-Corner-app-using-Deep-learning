@@ -25,6 +25,8 @@ and Diabetes
 # Models on kaggle
 [Pneumonia Detection](https://www.kaggle.com/code/mohamedkhaled7/pneumonia-detection-on-x-rays-using-cnn-and-tflite)
 
+[Heart Disease Prediction using Neural Networks](https://www.kaggle.com/code/mohamedkhaled7/heart-disease-prediction-using-neural-networks)
+
 # References
 ### Pneumonia Detection Model
 1 - [Dataset](https://www.kaggle.com/code/madz2000/pneumonia-detection-using-cnn-92-6-accuracy/data)
